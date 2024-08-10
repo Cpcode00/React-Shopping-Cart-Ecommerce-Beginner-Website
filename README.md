@@ -3,6 +3,10 @@ React Shopping Cart Ecommerce Beginner Website is a shopping cart example using 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+![page](https://user-images.githubusercontent.com/5593590/69054813-b0c7f080-0a0c-11ea-99e5-9af5da86d740.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
