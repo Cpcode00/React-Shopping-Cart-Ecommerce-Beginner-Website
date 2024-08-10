@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-![page](https://user-images.githubusercontent.com/5593590/69054813-b0c7f080-0a0c-11ea-99e5-9af5da86d740.png)
+![page](https://github.com/Cpcode00/React-Shopping-Cart-Ecommerce-Beginner-Website/blob/main/ChristianShop.png)
 
 ## Available Scripts
 
